@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\ASUS\Downloads\core-contracts\voting\target\debug\build\typenum-753ae4f1c35deb40\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\ASUS\Downloads\core-contracts\voting\target\debug\build\typenum-753ae4f1c35deb40\out\op.rs
